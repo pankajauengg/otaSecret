@@ -4,5 +4,6 @@
 "RXV":"3.0",
 "RXFile":"https://github.com/pankajauengg/otaSecret/raw/main/RXFirmware.bin",
 "ASIV":"0.3",
-"ASIFile":"https://raw.githubusercontent.com/pankajauengg/otaSecret/main/ASI-V0.3.xml"
+"ASIFile":"https://raw.githubusercontent.com/pankajauengg/otaSecret/main/ASI-V0.3.xml",
+"AndroidV":"1.0"
 }
