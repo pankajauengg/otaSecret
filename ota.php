@@ -1,8 +1,8 @@
 {
-"TXV":"V3.0.1",
+"TXV":"3.0",
 "TXFile":"https://github.com/pankajauengg/otaSecret/raw/main/TXFirmware.bin",
-"RXV":"V3.0.1",
+"RXV":"3.0",
 "RXFile":"https://github.com/pankajauengg/otaSecret/raw/main/RXFirmware.bin",
-"ASIV":"V0.3",
+"ASIV":"0.3",
 "ASIFile":"https://raw.githubusercontent.com/pankajauengg/otaSecret/main/ASI-V0.3.xml"
 }
