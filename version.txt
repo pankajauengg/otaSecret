@@ -1,5 +1,5 @@
 {
-"TXV":"4.0",
+"TXV":"4.1",
 "TXFile":"https://github.com/pankajauengg/otaSecret/raw/main/TXFirmware.bin",
 "RXV":"4.0",
 "RXFile":"https://github.com/pankajauengg/otaSecret/raw/main/RXFirmware.bin",
